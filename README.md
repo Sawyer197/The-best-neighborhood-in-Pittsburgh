@@ -1,5 +1,5 @@
 # The-best-neighborhood-in-Pittsburgh
-# data dawgs
+# data dawgs , canvas group 2
 # Andrew Magliozzo, ADM389@pitt.edu
 # Sawyer Slack, SBS141@pitt.edu
 # Zhike Wang  ZHW244@Pitt.edu
